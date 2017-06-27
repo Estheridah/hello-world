@@ -1,3 +1,5 @@
 # hello-world
-1st repository
-I want to learn how to code so I can be better at this!!!!!
+
+I am learning how to code so I can own something to myself!
+I commit to get better each day!
+I commit to own my destiny! 
